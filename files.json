@@ -1,0 +1,440 @@
+{
+    "version":  "1.0.0",
+    "files":  [
+                  {
+                      "path":  "Microsoft.Web.WebView2.Core.dll",
+                      "sha256":  "958efdb7f13a6d1f3079756c96956cc96cf713ae46fa085c8b1e7f44316a4f7e",
+                      "size":  698208
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.WinForms.dll",
+                      "sha256":  "ba823b3de79297389a9aad662e389d4d229bf3a6a0056f9ede4ee64cc49dc19c",
+                      "size":  39264
+                  },
+                  {
+                      "path":  "Microsoft.Web.WebView2.Wpf.dll",
+                      "sha256":  "ce832969c0b54092bf46e5978cb55955130abda33a27c65a65b3f6af4801bc80",
+                      "size":  84320
+                  },
+                  {
+                      "path":  "Newtonsoft.Json.dll",
+                      "sha256":  "f0c07af0e84d4dd4da4bd7823ba4535bc0481b3bf623ed40b659b68147a6bb75",
+                      "size":  721320
+                  },
+                  {
+                      "path":  "QuorumAPI.dll",
+                      "sha256":  "28a5074063a7ee29fbfb47fd64c1005e1a5ff2b96b8bfe3c55ced740dbaa1b5c",
+                      "size":  224768
+                  },
+                  {
+                      "path":  "Vertex Executor.deps.json",
+                      "sha256":  "92b9acd2e20608950e9ed85eac6c6c85c3cd45ed58d40bf8d878c804705c29d8",
+                      "size":  3564
+                  },
+                  {
+                      "path":  "Vertex Executor.dll",
+                      "sha256":  "a9ef022933c7348d5dde764877455dc4999b98857d94efe0a245ea7ca7219e3f",
+                      "size":  165888
+                  },
+                  {
+                      "path":  "Vertex Executor.exe",
+                      "sha256":  "31d86b368d0667fdaf4d0789aed3d1a8c8f12c0c265014444f214771e0071394",
+                      "size":  151552
+                  },
+                  {
+                      "path":  "Vertex Executor.runtimeconfig.json",
+                      "sha256":  "c71152bf25e40d647b2440c5b39be157a3d356106be9d5b678ab97bb87b4e782",
+                      "size":  458
+                  },
+                  {
+                      "path":  "bin/current_version.txt",
+                      "sha256":  "186284a1feb12d772d92fd33c2707cb62c1010d5029ffa832fdad62a5384bfa1",
+                      "size":  7
+                  },
+                  {
+                      "path":  "bin/libcrypto-3-x64.dll",
+                      "sha256":  "16e85806333aa3b3a4fe8c31c9402b78ee01a4a143e9031db165c48386dd6289",
+                      "size":  7428376
+                  },
+                  {
+                      "path":  "bin/libcurl.dll",
+                      "sha256":  "8645f1b6bec48f061e54941ec1d9c5e4b8096ce1a80d8ea0a0353e4cb557f8f5",
+                      "size":  652800
+                  },
+                  {
+                      "path":  "bin/libssl-3-x64.dll",
+                      "sha256":  "bfc059e16951fa90cc14489a8263f35c6703e762f2f5413682b4f7935bbced57",
+                      "size":  1447696
+                  },
+                  {
+                      "path":  "bin/Vertex.dll",
+                      "sha256":  "9d16d62878486d6caad6536c702de88165d2b07aaf124dd090559fbc424b3a3d",
+                      "size":  2431824
+                  },
+                  {
+                      "path":  "bin/Vertex1.1api.dll",
+                      "sha256":  "9d16d62878486d6caad6536c702de88165d2b07aaf124dd090559fbc424b3a3d",
+                      "size":  2431824
+                  },
+                  {
+                      "path":  "bin/Xeno.dll",
+                      "sha256":  "9d16d62878486d6caad6536c702de88165d2b07aaf124dd090559fbc424b3a3d",
+                      "size":  2431824
+                  },
+                  {
+                      "path":  "bin/zlib1.dll",
+                      "sha256":  "f6b58fdde3bfef2c25c7254fadfed12d86d81c4a5c962262715868c48063fc76",
+                      "size":  90112
+                  },
+                  {
+                      "path":  "libs/logo.png",
+                      "sha256":  "252888a5f7c56284b6bbb87b285edc1752e36fea6bc564980dbdce5a41b2d4fa",
+                      "size":  1543677
+                  },
+                  {
+                      "path":  "monaco/bird.png",
+                      "sha256":  "88421881df4482656ef0ee0c3074f8009934b55571d776b54ee95aaddd911b32",
+                      "size":  13432
+                  },
+                  {
+                      "path":  "monaco/index.html",
+                      "sha256":  "905628e5b054a94be043aaedb4437a8e812b222d453a7cc196b6f4be14591b29",
+                      "size":  83758
+                  },
+                  {
+                      "path":  "monaco/vs/loader.js",
+                      "sha256":  "0512d9ed3e5bb3daef94aa5c16a6c3e2ee26ffed9de00d1434ffe46a027b16b9",
+                      "size":  28566
+                  },
+                  {
+                      "path":  "monaco/vs/base/worker/workerMain.js",
+                      "sha256":  "bdf9433692a08851e13dd58504eef19f51bd2ec7241923a68edf5772e0e53af5",
+                      "size":  153173
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/bat/bat.js",
+                      "sha256":  "9bca42394fe8922fec24b768eeb8ce04692de6fad82f9052d5b7e70f5c6b0f40",
+                      "size":  2225
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/coffee/coffee.js",
+                      "sha256":  "e706c9f8e5c5a0cb01b2f4e4879ec34a050d6eb2a8840284eb7badd9d78099f9",
+                      "size":  3976
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/cpp/cpp.js",
+                      "sha256":  "a7c2bea7ca3d9e203a3a286735945fe010c8f4f8d46620386ee8befc6a78b32b",
+                      "size":  5502
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/csharp/csharp.js",
+                      "sha256":  "6b3be9a86ee8e3202f51745d94d24cc1eefbcf7d9e6d94fbaf70146b084e835f",
+                      "size":  4921
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/csp/csp.js",
+                      "sha256":  "4b5a5d7d50986b86b00833447e097c0f01a4388ce1765b48e7e371d06e3a4789",
+                      "size":  1799
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/css/css.js",
+                      "sha256":  "bd331fd3bd2c37b0c3150035325f163ac9266bf6d942310764815e676d856d91",
+                      "size":  4869
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/dockerfile/dockerfile.js",
+                      "sha256":  "65b86fc54e9b35d6cb84f01dfb905680dbcad6605757de1d6bca84e3029889af",
+                      "size":  2389
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/fsharp/fsharp.js",
+                      "sha256":  "1390079babc117d3f376735780d98f409f317eb4628d17106642c6933ea1da7f",
+                      "size":  3331
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/go/go.js",
+                      "sha256":  "46d1757c3cd3dbc3c7b465a338880144922a1c34c30e36f06ff2db8c2ff75b86",
+                      "size":  3035
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/handlebars/handlebars.js",
+                      "sha256":  "31d25588d120e7c79f3332ff3b3c794cebd0554c7578e3bb37b3cac366e4f6c2",
+                      "size":  6528
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/html/html.js",
+                      "sha256":  "c717ac0701d3b1e22dc52a0c53608214297e5fab7bc7011cf4e964f2eca9d62f",
+                      "size":  4932
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/ini/ini.js",
+                      "sha256":  "1f0feeae58c32f6e1f31b78f7e2aab3c91da387e464234c0f55ebff0e77444a2",
+                      "size":  1481
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/java/java.js",
+                      "sha256":  "44be702cae05d5844dc1c452f9bd94020007b9e543a765db4e6649278607d218",
+                      "size":  3351
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/less/less.js",
+                      "sha256":  "ed8d1a9da4e62d1cffe4c83580c9df57d688e850a45ace72c11bdeb064520a16",
+                      "size":  4278
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/lua/lua.js",
+                      "sha256":  "fc2d6fb52a524a56cd8ac53bfe4bad733f246e76dc73cbec4c61be32d282ac42",
+                      "size":  5498
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/markdown/markdown.js",
+                      "sha256":  "eaaf453e0a9f9a604547e564a24e682503189cb9b85c87715bc9b5b6492b6f62",
+                      "size":  3558
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/msdax/msdax.js",
+                      "sha256":  "6ab13356e083c4334e93d3167bdd17d02552508bfd11ea044c880af3a1dd94f9",
+                      "size":  5296
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/mysql/mysql.js",
+                      "sha256":  "7ba586bf9c623dc23f27a46e95a22342caa1f42d3b19fd9c018eb3b7298206dd",
+                      "size":  14882
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/objective-c/objective-c.js",
+                      "sha256":  "35af39baf166f7c2e3c95345b10ec46aa523f98783daa745aef64503019e3253",
+                      "size":  2794
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/pgsql/pgsql.js",
+                      "sha256":  "a9487e85b74fd293c0131ae9bc181e72baecf5a0a6f8b71e97770d79332c09c0",
+                      "size":  18014
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/php/php.js",
+                      "sha256":  "af43769fa1bdef70da786c2296c3a5f91552163c78d5c8ede46620a146edda92",
+                      "size":  8413
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/postiats/postiats.js",
+                      "sha256":  "e49fe4654ae374d12dc7a4cb210ba95f490982a014886ede88a0dad3fd99a760",
+                      "size":  8246
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/powershell/powershell.js",
+                      "sha256":  "d47b6e2970b4bbcd0eb8e4ef69eb2052b117e36ab20c68605a1750ad5991eb51",
+                      "size":  3663
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/pug/pug.js",
+                      "sha256":  "cdad9f84576583b68a10519c4f23ba36cd4422cbb7a44fded2c99a1e823e8043",
+                      "size":  5208
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/python/python.js",
+                      "sha256":  "8b98aeb80e1fd053e80cdfbf79437338d8b1081ccbd999c5373da225777296ad",
+                      "size":  3408
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/r/r.js",
+                      "sha256":  "710905ba785b707484afed8404c2b092f0b7ca4bf5aa35a7d333a7c07afee712",
+                      "size":  3211
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/razor/razor.js",
+                      "sha256":  "2ad872aa67a12a578e652762c21136b9c9e2a741c2752d69ef48c2eb22cc621c",
+                      "size":  8838
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/redis/redis.js",
+                      "sha256":  "81d912c3bd211ab866500ebc901eeb628b21e5979587901adece649baff48f30",
+                      "size":  3940
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/redshift/redshift.js",
+                      "sha256":  "b461f7951effbf085cd7a090dd4e69e54f812a2543f55a4ecacaee7ef6649bdf",
+                      "size":  12172
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/ruby/ruby.js",
+                      "sha256":  "5f249877eef9e52f52dbe2bb4b158da3a6f7fc2d267487298d537292596b6089",
+                      "size":  8505
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/rust/rust.js",
+                      "sha256":  "7c4e77f3bc6f3fb580c1c329f515e30830e6f6352d088b7948f73fa1662a3664",
+                      "size":  4304
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/sb/sb.js",
+                      "sha256":  "51c0bbde8b266514a37f00707c34bab27571b7eb38bddc5a45bb3f987ce5227d",
+                      "size":  2207
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/scss/scss.js",
+                      "sha256":  "438f781e751495302a0e2359ea93b54d7f9cba383fb44185d73bc6e2a5a38e81",
+                      "size":  6791
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/solidity/solidity.js",
+                      "sha256":  "e71c1df85ced6a51254a45152ceb9bab1ec3a003e8e4911ab35c737b52d42ae4",
+                      "size":  18973
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/sql/sql.js",
+                      "sha256":  "d1ab939c0ba1033252787f1f13b503d870ee5784a23a3b0b89857860075c035b",
+                      "size":  18619
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/st/st.js",
+                      "sha256":  "29e530c3a0dae1dc1b630a0867132a2513b1996b7eb0d1f4090336bd6004ff09",
+                      "size":  7278
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/swift/swift.js",
+                      "sha256":  "5e9896a1e113b93502a1249b0cc78a844b000b803410a9a956854faac8528366",
+                      "size":  4249
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/vb/vb.js",
+                      "sha256":  "5ca2ef383ccbfd449dceb76db571211374314054e22977bbeb785e2aaf8ecf24",
+                      "size":  6076
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/xml/xml.js",
+                      "sha256":  "01896b21ba9fe9106316197da8118596101b966d4597aa794720f2561cbe15d8",
+                      "size":  2119
+                  },
+                  {
+                      "path":  "monaco/vs/basic-languages/yaml/yaml.js",
+                      "sha256":  "3730024b6d24b2ea2e9794123b038eee4383e9ae94fabd849aceb9596ad9d2d0",
+                      "size":  3891
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.css",
+                      "sha256":  "08a893fdfe83d4f5fc9d5eb8fe0e100eaaadcfec25fa12cce8076edd0b1cbb51",
+                      "size":  175911
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.js",
+                      "sha256":  "93d28520c07fbca09e20886087f28797bb7bd0e6cf77400153aab5ae67e3ce18",
+                      "size":  2060030
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.de.js",
+                      "sha256":  "0dee462d5fb231f169f6cbc432465a43fd445c011fe650e29f5fb2bccc31eaae",
+                      "size":  37318
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.es.js",
+                      "sha256":  "203ff3591e02eb7b55a591e53919cc337f8dea73e6446fc3493227761c0794ba",
+                      "size":  38100
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.fr.js",
+                      "sha256":  "7fde40b2b212d274617232de09452c6cb896e8a3c6b9e0b459f067cd07f31a99",
+                      "size":  41201
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.it.js",
+                      "sha256":  "f67cec6dbf98c98c834638d20df53c5a770edada7f26ebf6d0b7dfec60f7a4ab",
+                      "size":  39483
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.ja.js",
+                      "sha256":  "ea9f5e8993017f858cd9ee70aac3d7990ca85eaf40a052025e530fb1c300837f",
+                      "size":  42617
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.js",
+                      "sha256":  "fdd9d64ce5284373d1541528d15e2aa8aa3a4adc11b51b3d71d3a3953f8bcc48",
+                      "size":  32364
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.ko.js",
+                      "sha256":  "100ca482c015571ed9aad97c2dcc5e266b270a650ce892507443b5d4f32df64f",
+                      "size":  37861
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.ru.js",
+                      "sha256":  "fa180f7b77ee252aefe73ba5993fbe7c89f43482358d7fd32e8e2f50b3b21bed",
+                      "size":  57423
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.zh-cn.js",
+                      "sha256":  "ac881e6f56544ed9b8dd4fd8fd8a73f1da864fb8d79d91c45f5a51f923bd5287",
+                      "size":  30493
+                  },
+                  {
+                      "path":  "monaco/vs/editor/editor.main.nls.zh-tw.js",
+                      "sha256":  "7751df224ac12dbc2e918b12fdbaa465306b6c511e4e1587790163edac18ad46",
+                      "size":  30734
+                  },
+                  {
+                      "path":  "monaco/vs/editor/contrib/suggest/media/String_16x.svg",
+                      "sha256":  "d1aa361f33564e8f9d527a01a66c7ce35d73f23417432e80ddf51f562770ee79",
+                      "size":  4740
+                  },
+                  {
+                      "path":  "monaco/vs/editor/contrib/suggest/media/String_inverse_16x.svg",
+                      "sha256":  "7d23c0f30cb9c05c81bb15785a3299772ae3cfbe51f3e04895aa1f23ffbeba5b",
+                      "size":  4740
+                  },
+                  {
+                      "path":  "monaco/vs/editor/standalone/browser/quickOpen/symbol-sprite.svg",
+                      "sha256":  "fcc3026b97068f3d9e1743d36ca26b96ffdbcd2841fa9d804caccc4f249911c8",
+                      "size":  20729
+                  },
+                  {
+                      "path":  "monaco/vs/language/css/cssMode.js",
+                      "sha256":  "d3108af9ffcdad3133345686646cafe3b628ad6b25a3758786b2aa7b7b51809d",
+                      "size":  22035
+                  },
+                  {
+                      "path":  "monaco/vs/language/css/cssWorker.js",
+                      "sha256":  "288bb68a2c685957b5dc3e5353b1a03dc482b10858059063b99c1549d5fef01c",
+                      "size":  501334
+                  },
+                  {
+                      "path":  "monaco/vs/language/html/htmlMode.js",
+                      "sha256":  "80d6f099563af129b4deff66f7b9d4dfb27ad0058dcb5b77d927e460022dafee",
+                      "size":  19132
+                  },
+                  {
+                      "path":  "monaco/vs/language/html/htmlWorker.js",
+                      "sha256":  "e80444d8fa519ff86e5c696a40843bc8392b2d3afb83118a2dd92da5497c9212",
+                      "size":  157807
+                  },
+                  {
+                      "path":  "monaco/vs/language/json/jsonMode.js",
+                      "sha256":  "08af59e449f6c058514bf05c54511ee6ec83934ab9dc3e803257196b2812e8ae",
+                      "size":  39101
+                  },
+                  {
+                      "path":  "monaco/vs/language/json/jsonWorker.js",
+                      "sha256":  "7c6d37bb341cf59335f6a3e5e336d0de863124fa40a8f9b5f29d8da07891b649",
+                      "size":  102259
+                  },
+                  {
+                      "path":  "monaco/vs/language/typescript/tsMode.js",
+                      "sha256":  "70957c5ede2834adf1b5bc264e119f82b4e8e6c169fc8ff140d637d1c5287bd9",
+                      "size":  20384
+                  },
+                  {
+                      "path":  "monaco/vs/language/typescript/tsWorker.js",
+                      "sha256":  "2ccc6b6b1b5d884fe8df3e7b2f2bacca0c4529b68bbfe3c547fcc74f204cc5d1",
+                      "size":  1776808
+                  },
+                  {
+                      "path":  "monaco/vs/language/typescript/lib/typescriptServices.js",
+                      "sha256":  "90e98063c644749a948edd5a7801f7b00c554e3189fe7c2811926b01eaf1b41f",
+                      "size":  1683029
+                  },
+                  {
+                      "path":  "runtimes/win-x64/native/WebView2Loader.dll",
+                      "sha256":  "a9a09232c25805323d4cfb3fc8f545a190a9c8a99c93262ea99d0b88df99ec90",
+                      "size":  164704
+                  }
+              ]
+}

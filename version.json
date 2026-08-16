@@ -1,10 +1,10 @@
 {
-    "version":  "1.4.0",
-    "minVersion":  "1.4.0",
-    "notes":  "Vertex Executor 1.4.0 is required. After the update you should see VERTEX 1.4.0 on the boot and login screens. This build adds a profile menu, Settings, local script saving, and a clearer key check.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.0/VertexExecutor.zip",
-    "sha256":  "9a26a2e4ee3c6138d8420ed8f7e20275d744078521737b15f914ed2300a4aff3",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.0/VertexExecutor-delta.zip",
-    "deltaSha256":  "f768cb4875617009c3824cb1a945f722eee9b70dc504c17ca746cd515ce133ec",
-    "deltaFrom":  "1.3.0"
+    "version":  "1.4.1",
+    "minVersion":  "1.4.1",
+    "notes":  "Vertex Executor 1.4.1 is required. Settings and the profile menu no longer sit behind the Lua editor.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.1/VertexExecutor.zip",
+    "sha256":  "cd5f6b35c37d5860078e1def9f470a4dd4352c26ee7ef35a6217ee4a105a293d",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.1/VertexExecutor-delta.zip",
+    "deltaSha256":  "22dd286585ee46f15f90d8e4a8d5397bef98566819f558e81ceba37b0209d0eb",
+    "deltaFrom":  "1.4.0"
 }

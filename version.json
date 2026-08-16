@@ -1,10 +1,10 @@
 {
-    "version":  "1.4.2",
-    "minVersion":  "1.4.2",
-    "notes":  "Vertex Executor 1.4.2 is required. Update check now runs before the Lua editor loads, so the update screen can no longer sit behind it.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.2/VertexExecutor.zip",
-    "sha256":  "9a85e733a0c637fbfd84ed0a27cab27db756761b3c9cabc95f5ab43ae89a19ad",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.2/VertexExecutor-delta.zip",
-    "deltaSha256":  "f429ef07862abe4db0d69828acf505d1624623bc4fd2ecd90ee7b3cb1e82b424",
-    "deltaFrom":  "1.4.0"
+    "version":  "1.5.0",
+    "minVersion":  "1.5.0",
+    "notes":  "Vertex Executor 1.5.0 is required. Settings and menus now float above the Lua editor, so the script card stays in place.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.0/VertexExecutor.zip",
+    "sha256":  "58c3ed47d70662d4e7c88981b5f042dd0bba29a87ddfc88e7f16338e510eb202",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.0/VertexExecutor-delta.zip",
+    "deltaSha256":  "0c24d8c9f60b66d35e953b55e933e08f79378a8f849337c37827dc391a5a5c13",
+    "deltaFrom":  "1.4.2"
 }

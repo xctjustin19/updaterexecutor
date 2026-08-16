@@ -6,5 +6,6 @@
     "sha256":  "58c3ed47d70662d4e7c88981b5f042dd0bba29a87ddfc88e7f16338e510eb202",
     "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.0/VertexExecutor-delta.zip",
     "deltaSha256":  "0c24d8c9f60b66d35e953b55e933e08f79378a8f849337c37827dc391a5a5c13",
-    "deltaFrom":  "1.4.2"
+    "deltaFrom":  "1.4.2",
+    "yanked":  ["1.6.0"]
 }

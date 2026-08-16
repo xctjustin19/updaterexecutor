@@ -1,5 +1,5 @@
 {
-    "version":  "1.3.0",
+    "version":  "1.4.0",
     "files":  [
                   {
                       "path":  "Microsoft.Web.WebView2.Core.dll",
@@ -28,17 +28,17 @@
                   },
                   {
                       "path":  "Vertex Executor.deps.json",
-                      "sha256":  "e77c9b53dc50b379ec215ba63188f754499ed95b65c4c9b800b0f0e118bb4631",
+                      "sha256":  "46977e190b77e0c1a9eea630ae04ffd9482a71510abc86f8375ddd2f9af1600a",
                       "size":  3564
                   },
                   {
                       "path":  "Vertex Executor.dll",
-                      "sha256":  "0f4dbef9642cbef5c1dc5490e44bc092798b766b8119adf95639e8c6ca41a194",
-                      "size":  1123328
+                      "sha256":  "55f4ea0945fd50120eb7f12dd1cc8fa6acc5c8e01e6e9e14c54c61b36a78c797",
+                      "size":  1156096
                   },
                   {
                       "path":  "Vertex Executor.exe",
-                      "sha256":  "cd9bb0fcfda5a345459233699b68de53a9efc9e0d254fed6e1579270724221c5",
+                      "sha256":  "39ed966a5809fd0bf7b19cb69c700a0d0b73cd80ab06a98208672b1ee6191838",
                       "size":  151552
                   },
                   {
@@ -98,8 +98,8 @@
                   },
                   {
                       "path":  "monaco/index.html",
-                      "sha256":  "905628e5b054a94be043aaedb4437a8e812b222d453a7cc196b6f4be14591b29",
-                      "size":  83758
+                      "sha256":  "e81a6da75f308ac6a8a6559b00a7ab4b030830bc963294dd0411b10a61334b82",
+                      "size":  84601
                   },
                   {
                       "path":  "monaco/vs/loader.js",

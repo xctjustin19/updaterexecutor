@@ -1,10 +1,10 @@
 {
-    "version":  "1.3.0",
-    "minVersion":  "1.3.0",
-    "notes":  "Vertex Executor 1.3.0 is required. After the update you should see VERTEX 1.3.0 on the boot and login screens.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.3.0/VertexExecutor.zip",
-    "sha256":  "47db435e28d93d225e99cd32aa999c03dcb45e66706941fea2134bb21cbf2d06",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.3.0/VertexExecutor-delta.zip",
-    "deltaSha256":  "86ec9b2c78f9f9cb1dd72df48980b0585d016fc67ae187667b9d8b96d362f163",
-    "deltaFrom":  "1.2.0"
+    "version":  "1.4.0",
+    "minVersion":  "1.4.0",
+    "notes":  "Vertex Executor 1.4.0 is required. After the update you should see VERTEX 1.4.0 on the boot and login screens. This build adds a profile menu, Settings, local script saving, and a clearer key check.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.0/VertexExecutor.zip",
+    "sha256":  "9a26a2e4ee3c6138d8420ed8f7e20275d744078521737b15f914ed2300a4aff3",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.0/VertexExecutor-delta.zip",
+    "deltaSha256":  "f768cb4875617009c3824cb1a945f722eee9b70dc504c17ca746cd515ce133ec",
+    "deltaFrom":  "1.3.0"
 }

@@ -1,5 +1,5 @@
 {
-    "version":  "1.5.0",
+    "version":  "1.6.0",
     "files":  [
                   {
                       "path":  "Microsoft.Web.WebView2.Core.dll",
@@ -28,17 +28,17 @@
                   },
                   {
                       "path":  "Vertex Executor.deps.json",
-                      "sha256":  "0ab5839fa1d17637151e09e5c38500117b1e88f7511194a2d0d5f721a4572136",
+                      "sha256":  "c94aaabe12d4e650388e5181069e1ba93742de2001036bc478b23677bf82835d",
                       "size":  3564
                   },
                   {
                       "path":  "Vertex Executor.dll",
-                      "sha256":  "37698659bd93b7221b3eecc926cbf506cc10a5d307181a255e813802ff25c952",
-                      "size":  1171968
+                      "sha256":  "74c21e349d2f588bd600f9e46ca9fce9e210ecebd7c02dadc1224f99354f50b0",
+                      "size":  1131520
                   },
                   {
                       "path":  "Vertex Executor.exe",
-                      "sha256":  "3c46ea3e420b3d2338592d33ef33e32a82962513637b7020c631581024b06cf1",
+                      "sha256":  "4afe7e3d97a8ce23a664cc2f41066d524f0962a4d053f2dca17a23823cbfe8b1",
                       "size":  151552
                   },
                   {
@@ -98,8 +98,8 @@
                   },
                   {
                       "path":  "monaco/index.html",
-                      "sha256":  "e81a6da75f308ac6a8a6559b00a7ab4b030830bc963294dd0411b10a61334b82",
-                      "size":  84601
+                      "sha256":  "b1e613227689a85608142c88a749a1be48be26e1141c5f1da2948f5e29cae991",
+                      "size":  84881
                   },
                   {
                       "path":  "monaco/vs/loader.js",
@@ -435,6 +435,11 @@
                       "path":  "runtimes/win-x64/native/WebView2Loader.dll",
                       "sha256":  "a9a09232c25805323d4cfb3fc8f545a190a9c8a99c93262ea99d0b88df99ec90",
                       "size":  164704
+                  },
+                  {
+                      "path":  "shell/index.html",
+                      "sha256":  "bce29e153c52a74da8292afec9394aded448229438aee3b972cb2f077a13f630",
+                      "size":  44243
                   }
               ]
 }

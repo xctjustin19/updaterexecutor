@@ -1,5 +1,5 @@
 {
-    "version":  "1.1.0",
+    "version":  "1.2.0",
     "files":  [
                   {
                       "path":  "Microsoft.Web.WebView2.Core.dll",
@@ -28,17 +28,17 @@
                   },
                   {
                       "path":  "Vertex Executor.deps.json",
-                      "sha256":  "f1e10b65575873a128caa0331ed80684112b744030f07892222c518beb0d32e8",
+                      "sha256":  "38808719225d748ecf18e71c30a413bb6e4567a76448e21e26b747335125c56c",
                       "size":  3564
                   },
                   {
                       "path":  "Vertex Executor.dll",
-                      "sha256":  "0ee59188f30667bbb67774fb2daafa8c0d3fc09946704a5d6d3660358a6de806",
-                      "size":  169472
+                      "sha256":  "a45331443ba7c2ec57d3e50fc1bf991a810d7c6450f0c8456f0444169c761182",
+                      "size":  1121792
                   },
                   {
                       "path":  "Vertex Executor.exe",
-                      "sha256":  "e0a19caf7b63f1983dd03d6a5ef18dbffc8d2bb5d9b8f5991fd28acacb922d1a",
+                      "sha256":  "656863a88ba20e11a49bf6b2725e806e8fa43133f71d4ce3ddd61f590f4e4ee9",
                       "size":  151552
                   },
                   {

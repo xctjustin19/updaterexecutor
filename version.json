@@ -1,10 +1,10 @@
 {
-    "version":  "1.2.0",
-    "minVersion":  "1.2.0",
-    "notes":  "Vertex Executor 1.2.0 is required. After the update you should see VERTEX 1.2.0 on the boot and login screens.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.2.0/VertexExecutor.zip",
-    "sha256":  "ca90513acdcd2aa40499e7a1e879e3fc5f19b60f0679afe478447fb124da3711",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.2.0/VertexExecutor-delta.zip",
-    "deltaSha256":  "e49a91ca3e9b337fecbe6308665b917681e5f3009c6b27dddce47fe82194bce6",
-    "deltaFrom":  "1.1.0"
+    "version":  "1.3.0",
+    "minVersion":  "1.3.0",
+    "notes":  "Vertex Executor 1.3.0 is required. After the update you should see VERTEX 1.3.0 on the boot and login screens.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.3.0/VertexExecutor.zip",
+    "sha256":  "47db435e28d93d225e99cd32aa999c03dcb45e66706941fea2134bb21cbf2d06",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.3.0/VertexExecutor-delta.zip",
+    "deltaSha256":  "86ec9b2c78f9f9cb1dd72df48980b0585d016fc67ae187667b9d8b96d362f163",
+    "deltaFrom":  "1.2.0"
 }

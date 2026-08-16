@@ -1,10 +1,10 @@
 {
-    "version":  "1.6.0",
-    "minVersion":  "1.6.0",
-    "notes":  "Vertex Executor 1.6.0 is required. The whole workspace is now a cinematic HTML shell with fluid motion, glass, and a living editor.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.6.0/VertexExecutor.zip",
-    "sha256":  "0d5624c817c051d6ec30206b2eef1fb02090adee9436c74ff0a347f4b9d8eeb2",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.6.0/VertexExecutor-delta.zip",
-    "deltaSha256":  "889ac73038ab346cf8531998277d10fc4a32ad67bc25619fce7d37f750e725ab",
-    "deltaFrom":  "1.5.0"
+    "version":  "1.5.0",
+    "minVersion":  "1.5.0",
+    "notes":  "Vertex Executor 1.5.0 is required. Settings and menus now float above the Lua editor, so the script card stays in place.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.0/VertexExecutor.zip",
+    "sha256":  "58c3ed47d70662d4e7c88981b5f042dd0bba29a87ddfc88e7f16338e510eb202",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.0/VertexExecutor-delta.zip",
+    "deltaSha256":  "0c24d8c9f60b66d35e953b55e933e08f79378a8f849337c37827dc391a5a5c13",
+    "deltaFrom":  "1.4.2"
 }

@@ -1,10 +1,10 @@
 {
-    "version":  "1.4.1",
-    "minVersion":  "1.4.1",
-    "notes":  "Vertex Executor 1.4.1 is required. Settings and the profile menu no longer sit behind the Lua editor.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.1/VertexExecutor.zip",
-    "sha256":  "cd5f6b35c37d5860078e1def9f470a4dd4352c26ee7ef35a6217ee4a105a293d",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.1/VertexExecutor-delta.zip",
-    "deltaSha256":  "22dd286585ee46f15f90d8e4a8d5397bef98566819f558e81ceba37b0209d0eb",
+    "version":  "1.4.2",
+    "minVersion":  "1.4.2",
+    "notes":  "Vertex Executor 1.4.2 is required. Update check now runs before the Lua editor loads, so the update screen can no longer sit behind it.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.2/VertexExecutor.zip",
+    "sha256":  "9a85e733a0c637fbfd84ed0a27cab27db756761b3c9cabc95f5ab43ae89a19ad",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.4.2/VertexExecutor-delta.zip",
+    "deltaSha256":  "f429ef07862abe4db0d69828acf505d1624623bc4fd2ecd90ee7b3cb1e82b424",
     "deltaFrom":  "1.4.0"
 }

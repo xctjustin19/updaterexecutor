@@ -1,13 +1,12 @@
 {
-    "version":  "1.5.3",
-    "minVersion":  "1.5.3",
-    "notes":  "Vertex Executor 1.5.3 is required. New: auto-execute — after a successful inject the current script runs automatically, with a short delay so the game is ready.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.3/VertexExecutor.zip",
-    "sha256":  "8682d147eed9724b2eb3fc6473af15d927a2e8734ad55b4b04c33b9f3df3ae4d",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.3/VertexExecutor-delta.zip",
-    "deltaSha256":  "466a1eb5f9a29b422a7e682e67810f46eb46f821056fcdafb4e583f1b3c3faee",
-    "deltaFrom":  "1.5.2",
-    "removed":  ["logs/2026-08-17_23-19-39.log"],
+    "version":  "1.6.1",
+    "minVersion":  "1.6.1",
+    "notes":  "Vertex Executor 1.6.1 is required. Auto-inject waits until you join a game, then auto-execute runs the current script.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.6.1/VertexExecutor.zip",
+    "sha256":  "d7221d458d619c66b027cae67d15d53bad2e7b8b044ad0277fa5ea1030b50b90",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.6.1/VertexExecutor-delta.zip",
+    "deltaSha256":  "065a410d97131c0a99848dbaa533565b242ef6783400b28cc4953068198027a7",
+    "deltaFrom":  "1.5.3",
     "yanked":  ["1.6.0"],
-    "rev":  4
+    "rev":  5
 }

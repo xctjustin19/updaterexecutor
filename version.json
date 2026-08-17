@@ -1,12 +1,13 @@
 {
-    "version":  "1.5.2",
-    "minVersion":  "1.5.2",
-    "notes":  "Vertex Executor 1.5.2 is required. Inject is far more reliable — Vertex waits for Roblox and auto-retries the attach — and instances launch fully automated with smarter cookie handling.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.2/VertexExecutor.zip",
-    "sha256":  "447f712c3c94db96afaf804899c71833aeff4398edc4fdb436f6ea4dd2fd42c7",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.2/VertexExecutor-delta.zip",
-    "deltaSha256":  "712650b711026e6d47d5862f1e6f7da39394de07e4d5e377e386b61a13f5fa73",
-    "deltaFrom":  "1.5.1",
+    "version":  "1.5.3",
+    "minVersion":  "1.5.3",
+    "notes":  "Vertex Executor 1.5.3 is required. New: auto-execute — after a successful inject the current script runs automatically, with a short delay so the game is ready.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.3/VertexExecutor.zip",
+    "sha256":  "8682d147eed9724b2eb3fc6473af15d927a2e8734ad55b4b04c33b9f3df3ae4d",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.3/VertexExecutor-delta.zip",
+    "deltaSha256":  "466a1eb5f9a29b422a7e682e67810f46eb46f821056fcdafb4e583f1b3c3faee",
+    "deltaFrom":  "1.5.2",
+    "removed":  ["logs/2026-08-17_23-19-39.log"],
     "yanked":  ["1.6.0"],
-    "rev":  3
+    "rev":  4
 }

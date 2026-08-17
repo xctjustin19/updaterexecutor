@@ -1,11 +1,11 @@
 {
-    "version":  "1.5.0",
-    "minVersion":  "1.5.0",
-    "notes":  "Vertex Executor 1.5.0 is required. Settings and menus now float above the Lua editor, so the script card stays in place.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.0/VertexExecutor.zip",
-    "sha256":  "58c3ed47d70662d4e7c88981b5f042dd0bba29a87ddfc88e7f16338e510eb202",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.0/VertexExecutor-delta.zip",
-    "deltaSha256":  "0c24d8c9f60b66d35e953b55e933e08f79378a8f849337c37827dc391a5a5c13",
-    "deltaFrom":  "1.4.2",
+    "version":  "1.5.1",
+    "minVersion":  "1.5.1",
+    "notes":  "Vertex Executor 1.5.1 is required. Inject follows live client status.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.1/VertexExecutor.zip",
+    "sha256":  "e5ab544bebbd9b86f4b9e23013affb462110be5dfa6de5b7ae82e7c8935fc3e2",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.5.1/VertexExecutor-delta.zip",
+    "deltaSha256":  "d3b88f8048dca312e875eb440ef040cd3669ed4744abee8bb7594582e16e73a2",
+    "deltaFrom":  "1.5.0",
     "yanked":  ["1.6.0"]
 }

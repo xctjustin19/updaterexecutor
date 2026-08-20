@@ -1,13 +1,13 @@
 {
     "version":  "1.8.1",
     "minVersion":  "1.8.1",
-    "notes":  "Vertex Executor 1.8.1 fixes live update detection (stale GitHub CDN). Includes offline kill, Xeno UI suppression, and autoexec hide.",
+    "notes":  "Vertex Executor 1.8.1 fixes live update detection (reads GitHub API + all CDN mirrors). Includes offline kill and Xeno UI suppression.",
     "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.1/VertexExecutor.zip",
-    "sha256":  "09844ed4a66f395a5f6d42a9fc8290bc1a0c412b51924b58c4ded6e4b4d01539",
+    "sha256":  "e212c40d5fe411d79df5f5b5d80c20814767d48e2c195ce57ec1437bce6efaab",
     "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.1/VertexExecutor-delta.zip",
-    "deltaSha256":  "ddc2636cd47dcdb810d576287724e43717249784431eb28b8b44d5750fd8465d",
+    "deltaSha256":  "85f60a214d60914ed5b5e4b46214cd44b0a5c11bf8494825f8524afeec1b1f8f",
     "deltaFrom":  "1.8.0",
     "removed":  [],
     "yanked":  ["1.6.0"],
-    "rev":  8
+    "rev":  9
 }

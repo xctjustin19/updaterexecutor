@@ -1,13 +1,13 @@
 {
-    "version":  "1.8.0",
-    "minVersion":  "1.8.0",
-    "notes":  "Vertex Executor 1.8.0: dashboard offline kills active Roblox sessions and restarts Vertex once; Xeno attach/disconnect UI is fully suppressed.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.0/VertexExecutor.zip",
-    "sha256":  "ac05faefa687031b6afdc0f4d4350de7e73cb9d3b6d17301c1027715677b8673",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.0/VertexExecutor-delta.zip",
-    "deltaSha256":  "371dfb1bc58d0e124033fb6c67427d5553cf22c347b350c3e1781015ff616462",
-    "deltaFrom":  "1.7.0",
+    "version":  "1.8.1",
+    "minVersion":  "1.8.1",
+    "notes":  "Vertex Executor 1.8.1 fixes live update detection (stale GitHub CDN). Includes offline kill, Xeno UI suppression, and autoexec hide.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.1/VertexExecutor.zip",
+    "sha256":  "09844ed4a66f395a5f6d42a9fc8290bc1a0c412b51924b58c4ded6e4b4d01539",
+    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.1/VertexExecutor-delta.zip",
+    "deltaSha256":  "ddc2636cd47dcdb810d576287724e43717249784431eb28b8b44d5750fd8465d",
+    "deltaFrom":  "1.8.0",
     "removed":  [],
     "yanked":  ["1.6.0"],
-    "rev":  7
+    "rev":  8
 }

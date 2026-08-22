@@ -1,13 +1,14 @@
 {
-    "version":  "1.8.1",
-    "minVersion":  "1.8.1",
-    "notes":  "Vertex Executor 1.8.1 fixes live update detection (reads GitHub API + all CDN mirrors). Includes offline kill and Xeno UI suppression.",
-    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.1/VertexExecutor.zip",
-    "sha256":  "e212c40d5fe411d79df5f5b5d80c20814767d48e2c195ce57ec1437bce6efaab",
-    "deltaUrl":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.1/VertexExecutor-delta.zip",
-    "deltaSha256":  "85f60a214d60914ed5b5e4b46214cd44b0a5c11bf8494825f8524afeec1b1f8f",
-    "deltaFrom":  "1.8.0",
-    "removed":  [],
-    "yanked":  ["1.6.0"],
-    "rev":  9
+    "version":  "1.8.5",
+    "minVersion":  "1.8.5",
+    "notes":  "Vertex Executor 1.8.5 - stable inject/execute (unpatched Xeno.dll), fast Release boot, safe UI overlay, no attach crashes.",
+    "url":  "https://github.com/xctjustin19/updaterexecutor/releases/download/v1.8.5/VertexExecutor.zip",
+    "sha256":  "7df4b1f7b49f862a701f28ef1021cbc4fc97e899cc4765d9016fe9f8775e2d35",
+    "rev":  10,
+    "yanked":  [
+                   "1.6.0"
+               ],
+    "removed":  [
+
+                ]
 }
